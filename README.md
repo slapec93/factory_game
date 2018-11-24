@@ -1,3 +1,5 @@
 # 2D factory game
 
-TODOs:
+## TODOs:
+- [ ] create the base game
+- [ ] create factory machines
